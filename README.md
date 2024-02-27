@@ -1,8 +1,8 @@
 # [NOTES] Data Analytics and Artificial Intelligence
 
-![Environment setup](./enviornment/)
-![NumPy]()
-![Pandas]()
+- [Environment setup](./enviornment/)
+- [NumPy]()
+- [Pandas]()
 
 
 ## JAMK Courses
